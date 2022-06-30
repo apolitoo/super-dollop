@@ -12,9 +12,21 @@ Argumentos para ambos lados hay de sobra. Y no pienso ignorar uno de los más se
 
 Sea cual sea el posicionamiento, en esta guía no me centraré en los porqués, cómos y dóndes de la piratería. Más me era indispensable mencionarlo porque la piratería como medida anticapitalista esta relacionada, inevitablemente, con la importancia del software de código abierto.
 
+Finalmente, dejó unos enlaces a artículos e investigaciones alrededor de la moralidad y la piratería, especialmente en América Latina.
 
+> [Un fantasma recorre la ciencia, el fantasma de la piratería. Prácticas y representaciones acerca del acceso a la literatura científica.](https://drive.google.com/file/d/1A2-PnK414UoJ8hEOvOcVaOjXHNe-sI3q/view)
 
+> [Ciencia y piratería: entre lo legal y lo moral | Vanina Lombardi](https://www.unsam.edu.ar/tss/ciencia-y-pirateria-entre-lo-legal-y-lo-moral/)
 
+> [Acceso a la Literatura científica desde Sci-Hub | Carolina Monti, Carolina Unzurrunzaga](https://revistas.unlp.edu.ar/hipertextos/article/view/11138)
+
+> [Acceso a la literatura científica en Argentina: Rutas y percepciones de investigadores del CONICET | Carolina Monti](http://accesoabierto.fahce.unlp.edu.ar/entradas/acceso-a-la-literatura-cientifica-en-argentina-rutas-y-percepciones-de-investigadores-del-conicet)
+
+> [Hackers: de piratas a defensores del software libre | Jorge Lizama Mendoza](https://www.ssoar.info/ssoar/handle/document/59453)
+
+> [Piratería y software libre | Benjamin Mako Hill](http://endefensadelsl.org/pirateria\_y\_software\_libre.html)
+
+> [La piratería como conflicto. Discursos sobre la propiedad intelectual en México | José Carlos Aguilar](https://revistas.flacsoandes.edu.ec/iconos/article/view/434)
 
 
 
